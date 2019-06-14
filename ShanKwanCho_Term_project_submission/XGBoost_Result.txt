@@ -1,0 +1,151 @@
+fold n°1
+xgb 0--------------------------------------------------
+[0]	train-rmse:3.94835	valid-rmse:3.96202
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+
+Will train until valid-rmse hasn't improved in 50 rounds.
+[1000]	train-rmse:3.68788	valid-rmse:3.72061
+[2000]	train-rmse:3.65869	valid-rmse:3.70637
+[3000]	train-rmse:3.63927	valid-rmse:3.69999
+[4000]	train-rmse:3.62204	valid-rmse:3.69574
+[5000]	train-rmse:3.60641	valid-rmse:3.69313
+Stopping. Best iteration:
+[5589]	train-rmse:3.59705	valid-rmse:3.69158
+
+fold n°2
+xgb 1--------------------------------------------------
+[0]	train-rmse:3.98032	valid-rmse:3.83195
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+
+Will train until valid-rmse hasn't improved in 50 rounds.
+[1000]	train-rmse:3.72201	valid-rmse:3.58627
+[2000]	train-rmse:3.69759	valid-rmse:3.57414
+[3000]	train-rmse:3.68651	valid-rmse:3.56983
+[4000]	train-rmse:3.6775	valid-rmse:3.5673
+[5000]	train-rmse:3.66815	valid-rmse:3.56526
+[6000]	train-rmse:3.65972	valid-rmse:3.56387
+Stopping. Best iteration:
+[5975]	train-rmse:3.65994	valid-rmse:3.56384
+
+fold n°3
+xgb 2--------------------------------------------------
+[0]	train-rmse:3.91061	valid-rmse:4.10842
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+
+Will train until valid-rmse hasn't improved in 50 rounds.
+[1000]	train-rmse:3.6499	valid-rmse:3.87011
+[2000]	train-rmse:3.61973	valid-rmse:3.85729
+[3000]	train-rmse:3.60035	valid-rmse:3.85239
+[4000]	train-rmse:3.58341	valid-rmse:3.84945
+Stopping. Best iteration:
+[4573]	train-rmse:3.57414	valid-rmse:3.84843
+
+fold n°4
+xgb 3--------------------------------------------------
+[0]	train-rmse:3.9538	valid-rmse:3.94029
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+
+Will train until valid-rmse hasn't improved in 50 rounds.
+[1000]	train-rmse:3.69442	valid-rmse:3.6976
+[2000]	train-rmse:3.6709	valid-rmse:3.68494
+[3000]	train-rmse:3.65938	valid-rmse:3.68047
+[4000]	train-rmse:3.64999	valid-rmse:3.67766
+[5000]	train-rmse:3.64067	valid-rmse:3.67494
+[6000]	train-rmse:3.63206	valid-rmse:3.67306
+Stopping. Best iteration:
+[6508]	train-rmse:3.62783	valid-rmse:3.67236
+
+fold n°5
+xgb 4--------------------------------------------------
+[0]	train-rmse:3.96175	valid-rmse:3.90741
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+
+Will train until valid-rmse hasn't improved in 50 rounds.
+[1000]	train-rmse:3.70551	valid-rmse:3.66112
+[2000]	train-rmse:3.68089	valid-rmse:3.64781
+[3000]	train-rmse:3.66903	valid-rmse:3.64332
+[4000]	train-rmse:3.65983	valid-rmse:3.64031
+[5000]	train-rmse:3.65141	valid-rmse:3.63765
+[6000]	train-rmse:3.643	valid-rmse:3.63577
+[7000]	train-rmse:3.63487	valid-rmse:3.634
+[8000]	train-rmse:3.62656	valid-rmse:3.63251
+Stopping. Best iteration:
+[8747]	train-rmse:3.62124	valid-rmse:3.63156
+
+fold n°6
+xgb 5--------------------------------------------------
+[0]	train-rmse:3.94065	valid-rmse:3.99265
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+
+Will train until valid-rmse hasn't improved in 50 rounds.
+[1000]	train-rmse:3.67665	valid-rmse:3.76243
+[2000]	train-rmse:3.65265	valid-rmse:3.75239
+[3000]	train-rmse:3.64107	valid-rmse:3.74885
+[4000]	train-rmse:3.63118	valid-rmse:3.74633
+[5000]	train-rmse:3.62214	valid-rmse:3.74437
+[6000]	train-rmse:3.614	valid-rmse:3.74273
+Stopping. Best iteration:
+[6329]	train-rmse:3.61141	valid-rmse:3.74228
+
+fold n°7
+xgb 6--------------------------------------------------
+[0]	train-rmse:3.955	valid-rmse:3.93526
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+
+Will train until valid-rmse hasn't improved in 50 rounds.
+[1000]	train-rmse:3.69374	valid-rmse:3.69679
+[2000]	train-rmse:3.67197	valid-rmse:3.68498
+[3000]	train-rmse:3.66037	valid-rmse:3.68048
+[4000]	train-rmse:3.65078	valid-rmse:3.67763
+[5000]	train-rmse:3.64162	valid-rmse:3.67558
+Stopping. Best iteration:
+[5632]	train-rmse:3.63639	valid-rmse:3.67454
+
+fold n°8
+xgb 7--------------------------------------------------
+[0]	train-rmse:3.94227	valid-rmse:3.98623
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+
+Will train until valid-rmse hasn't improved in 50 rounds.
+[1000]	train-rmse:3.68817	valid-rmse:3.73105
+[2000]	train-rmse:3.66057	valid-rmse:3.71617
+[3000]	train-rmse:3.64215	valid-rmse:3.70971
+[4000]	train-rmse:3.6261	valid-rmse:3.70518
+[5000]	train-rmse:3.61094	valid-rmse:3.70224
+[6000]	train-rmse:3.59658	valid-rmse:3.70034
+[7000]	train-rmse:3.58242	valid-rmse:3.698
+Stopping. Best iteration:
+[7891]	train-rmse:3.57044	valid-rmse:3.69653
+
+fold n°9
+xgb 8--------------------------------------------------
+[0]	train-rmse:3.95542	valid-rmse:3.93371
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+
+Will train until valid-rmse hasn't improved in 50 rounds.
+[1000]	train-rmse:3.69557	valid-rmse:3.69372
+[2000]	train-rmse:3.66749	valid-rmse:3.6812
+[3000]	train-rmse:3.65225	valid-rmse:3.67658
+[4000]	train-rmse:3.63989	valid-rmse:3.67395
+[5000]	train-rmse:3.62761	valid-rmse:3.67185
+[6000]	train-rmse:3.61426	valid-rmse:3.6698
+Stopping. Best iteration:
+[6573]	train-rmse:3.60651	valid-rmse:3.66904
+
+fold n°10
+xgb 9--------------------------------------------------
+[0]	train-rmse:3.96191	valid-rmse:3.90683
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+
+Will train until valid-rmse hasn't improved in 50 rounds.
+[1000]	train-rmse:3.70434	valid-rmse:3.66171
+[2000]	train-rmse:3.67509	valid-rmse:3.64688
+[3000]	train-rmse:3.65531	valid-rmse:3.64085
+[4000]	train-rmse:3.63846	valid-rmse:3.63717
+[5000]	train-rmse:3.62262	valid-rmse:3.63475
+Stopping. Best iteration:
+[5328]	train-rmse:3.61756	valid-rmse:3.63419
+
+RMSE :  3.68351376179364
+CPU times: user 12h 35min 10s, sys: 1min 24s, total: 12h 36min 34s
+Wall time: 6h 30min 58s

@@ -1,0 +1,14 @@
+
+
+
+Evaluation strategies
+
+The accuracy might be more efficiency if I bin into more specific which also take abit long but to get high accuracy.
+I didnt have chance to implement the K-fold cross validation.
+As far as i finish i can explain and implement to get better accuracy by applying more data_preprocessing work and equal-width binning method as well as
+Gaussian distribution.
+
+What I learnt!
+This project is great trial(classroom friendly) unlike real_world stress.
+By doing from strach, I better understand how's things work together and can compare which approach is more suitbale or not.
+Better to work on self-changelling project before get into the real_world.

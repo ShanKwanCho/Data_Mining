@@ -1,0 +1,7 @@
+
+Programming Language = python3.7
+
+Data preprocessing can be found at test and preprecessing folder
+and its is encode with ipynb
+The main implementation is naive.py and run with command: python maive.py
+The visualization photos can be found in visualize folder.
